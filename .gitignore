@@ -1,0 +1,14 @@
+/myapp/routes/
+/myapp/views/
+/myapp/node_modules/
+/myapp/bin/
+/myapp/public/
+/myapp/download/
+/myapp/app.js
+/myapp/package.json
+/myapp/package-lock.json
+/myapp/temp.pdf
+/node_modules/
+/app.jsold
+/.idea
+/app.js
